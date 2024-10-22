@@ -1,4 +1,4 @@
-# <span style="color:orange">Caltech Number Theory Seminar</span> Fall 2024–Spring 2025
+# <span style="color:orange">Caltech Number Theory Seminar</span> Fall 2024 - Spring 2025
 
 This is the website for the Caltech Number Theory Seminar organized Matthias Flach, Yu Fu, Elena Mantovan, and Roy Zhao (on leave).
 This webpage is maintained by Yu Fu.
@@ -24,17 +24,18 @@ Titles and abstracts are also available on the [Caltech Calendar](https://pma.ca
 
 ## Abstracts
 
-### October 10, Mulun Yin
-### _Anticyclotomic Iwasawa theory for newforms at Eisenstein primes_
+### _October 10, Mulun Yin_
+### Anticyclotomic Iwasawa theory for newforms at Eisenstein primes
 <a name="oct10"></a>
 Anticyclotomic Iwasawa theory for elliptic curves at Eisenstein case was first studied in the recent work of Castella--Grossi--Lee--Skinner. We will talk about generalizations of their results to newforms of arbitrary weights, meanwhile removing their techinical assumptions. Using Hida arguments, one could also deduce weight 2 results for multiplicative reduction. The applications include new cases of p-part BSD formula, p-converse theorems and improvements in arithmetic statistics. This is joint work with Timo Keller.
 
-### October 17, Liyang Yang
-### _Relative Trace Formula and Uniform Non-vanishing of Hilbert Modular L-values_
+### _October 17, Liyang Yang_
+### Relative Trace Formula and Uniform Non-vanishing of Hilbert Modular L-values
 <a name="oct17"></a>
 Anticyclotomic Iwasawa theory for elliptic curves at Eisenstein case was first studied in the recent work of Castella--Grossi--Lee--Skinner. We will talk about generalizations of their results to newforms of arbitrary weights, meanwhile removing their techinical assumptions. Using Hida arguments, one could also deduce weight 2 results for multiplicative reduction. The applications include new cases of p-part BSD formula, p-converse theorems and improvements in arithmetic statistics. This is joint work with Timo Keller.
 
-### October 31, Jize Yu
-### _Towards an explicit Bezrukavnikov’s equivalence in mixed characteristic_
+### _October 31, Jize Yu_
+### Towards an explicit Bezrukavnikov’s equivalence in mixed characteristic
 <a name="oct31"></a>
 Let G be a complex reductive group. A celebrated theorem of Kazhdan-Lusztig establishes an isomorphism between the extended affine Hecke algebra of G and certain equivariant K-group of the Steinberg variety of the Langlands dual group of G. This isomorphism plays a crucial role in Kazhdan-Lusztig's proof of the Deligen-Langlands conjecture. In the equal characteristic setting, Bezrukavnikov studied the categorification of this isomorphism and proved an equivalence between two geometric realizations of the affine Hecke algebra, which can be seen as the tamely ramified local geometric Langlands correspondence. In mixed characteristics, Bando and Yun-Zhu independently used implicit approaches to derive Bezrukavnikov's equivalence from the equal characteristic setting. In this talk, I will discuss an explicit approach to establish Bezrukavnikov's equivalence building on a previous joint work with Anschütz, Lourenço, and Wu. This talk is based on an ongoing project with Bando, Gleason, and Lourenço.
+
