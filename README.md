@@ -1,24 +1,37 @@
-# Simple Github Page
+# <span style="color:orange">Caltech Number Theory Seminar</span> Fall 2024–Spring 2025
 
-View at [https://christophera.github.io/simplest-github-page/](https://christophera.github.io/simplest-github-page/)
+This is the website for the Caltech Number Theory Seminar organized Matthias Flach, Yu Fu, Elena Mantovan, and Roy Zhao (on leave).
+This webpage is maintained by Yu Fu.
 
-## Goals
+The seminar is scheduled to meet at <span style="color:orange">4:00-5:00 PM on Thursdays in 387 Linde Hall</span>
 
-* Without using Jekyll, Ruby or Gem, leverage the various files that allow you to use markdown directly within github pages.
-* Pages should largely look the same when rendered from the GitHub repo page and from the git
-* Leverage the default [Jekyll Primer](https://github.com/pages-themes/primer) theme's CSS without the using the full theme.
-* Support internal anchor link tags
+Titles and abstracts are also available on the [Caltech Calendar](https://pma.caltech.edu/calendar/week)
 
-## Using This
-* [ ]  Edit the `_config.yml` with your own info
-* [ ]  Edit the `/_layouts/default.html` file to change default html template.
-* [ ]  Add to `/_layouts/default.html` template any inline styles you wish to override.
+## Schedule
 
-### Displays correctly both Web View and in GitHub View
+| Date          | Speaker           | Topic |
+| ----          | -------           | ----- |
+| October 3     | _No speaker_      |       |
+| October 10    | [Mulun Yin](https://www.math.ucsb.edu/people/mulun-yin) (UCSB) | [Anticyclotomic Iwasawa theory for newforms at Eisenstein primes](#oct10) |
+| October 17    | [Liyang Yang](https://lyliyangyang.github.io/) (Princeton) | [Relative Trace Formula and Uniform Non-vanishing of Hilbert Modular L-values](#oct17) |
+| October 31    | [Jize Yu](https://sites.google.com/view/jize-yu-math/home?authuser=0) (Rice) | [Towards an explicit Bezrukavnikov’s equivalence in mixed characteristic](#oct31) |
+| November 7    | [Chengyang Bao](https://math.uchicago.edu/~c.y.bao/) (UCLA) | TBD |
+| November 14   | [Lea Beneish](https://sites.google.com/view/lea-beneish/home) (UNT) | TBD |
+| November 21   | [Shubhodip Mondal](https://personal.math.ubc.ca/~smondal/)  (UBC) | TBD |
+| December 5    | [Peter Xu](https://www.math.ucla.edu/people/visiting/peterx)  (UCLA) | TBD |
+| January 9     | TBD | TBD |
+| January 16    | TBD | TBD |
 
-### Displays correctly both Web View and in GitHub View, but requires proper formatting
-* Github will render raw URLs as links, but you must use proper markdown construction `[linkname](link)` for URLs to display propery in the Web View.
-* If you do a relative link to a markdown file without the extension, it will be rendered in html correctly, for example relative [./sample](./sample). Unfortunately, when rendered in Github the relative link will give a 404 error. To preserve compatiblity of both, if use use the `.md` extension in the relative link — it will render correctly in both html and gihub and both will function as links to the correct place, for example see [./sample.md](./sample.md). You do not need to do this with `/` which will render `README.md` as `index.html`
+## Abstracts
 
+### October 10, Mulun Yin, _Anticyclotomic Iwasawa theory for newforms at Eisenstein primes_
+<a name="oct10"></a>
+Anticyclotomic Iwasawa theory for elliptic curves at Eisenstein case was first studied in the recent work of Castella--Grossi--Lee--Skinner. We will talk about generalizations of their results to newforms of arbitrary weights, meanwhile removing their techinical assumptions. Using Hida arguments, one could also deduce weight 2 results for multiplicative reduction. The applications include new cases of p-part BSD formula, p-converse theorems and improvements in arithmetic statistics. This is joint work with Timo Keller.
 
+### October 17, Liyang Yang, _Relative Trace Formula and Uniform Non-vanishing of Hilbert Modular L-values_
+<a name="oct17"></a>
+Anticyclotomic Iwasawa theory for elliptic curves at Eisenstein case was first studied in the recent work of Castella--Grossi--Lee--Skinner. We will talk about generalizations of their results to newforms of arbitrary weights, meanwhile removing their techinical assumptions. Using Hida arguments, one could also deduce weight 2 results for multiplicative reduction. The applications include new cases of p-part BSD formula, p-converse theorems and improvements in arithmetic statistics. This is joint work with Timo Keller.
 
+### October 31, Jize Yu, _Towards an explicit Bezrukavnikov’s equivalence in mixed characteristic_
+<a name="oct31"></a>
+Let G be a complex reductive group. A celebrated theorem of Kazhdan-Lusztig establishes an isomorphism between the extended affine Hecke algebra of G and certain equivariant K-group of the Steinberg variety of the Langlands dual group of G. This isomorphism plays a crucial role in Kazhdan-Lusztig's proof of the Deligen-Langlands conjecture. In the equal characteristic setting, Bezrukavnikov studied the categorification of this isomorphism and proved an equivalence between two geometric realizations of the affine Hecke algebra, which can be seen as the tamely ramified local geometric Langlands correspondence. In mixed characteristics, Bando and Yun-Zhu independently used implicit approaches to derive Bezrukavnikov's equivalence from the equal characteristic setting. In this talk, I will discuss an explicit approach to establish Bezrukavnikov's equivalence building on a previous joint work with Anschütz, Lourenço, and Wu. This talk is based on an ongoing project with Bando, Gleason, and Lourenço.
